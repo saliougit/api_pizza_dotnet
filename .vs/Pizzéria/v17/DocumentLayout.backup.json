@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell 5540\\source\\repos\\Pizz\u00E9ria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87B244F7-2FA3-4FD8-92A1-04177F47FAAC}|Pizz\u00E9ria\\Pizz\u00E9ria.csproj|c:\\users\\dell 5540\\source\\repos\\pizz\u00E9ria\\pizz\u00E9ria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B244F7-2FA3-4FD8-92A1-04177F47FAAC}|Pizz\u00E9ria\\Pizz\u00E9ria.csproj|solutionrelative:pizz\u00E9ria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B244F7-2FA3-4FD8-92A1-04177F47FAAC}|Pizz\u00E9ria\\Pizz\u00E9ria.csproj|c:\\users\\dell 5540\\source\\repos\\pizz\u00E9ria\\pizz\u00E9ria\\models\\pizzaehod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B244F7-2FA3-4FD8-92A1-04177F47FAAC}|Pizz\u00E9ria\\Pizz\u00E9ria.csproj|solutionrelative:pizz\u00E9ria\\models\\pizzaehod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B244F7-2FA3-4FD8-92A1-04177F47FAAC}|Pizz\u00E9ria\\Pizz\u00E9ria.csproj|c:\\users\\dell 5540\\source\\repos\\pizz\u00E9ria\\pizz\u00E9ria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87B244F7-2FA3-4FD8-92A1-04177F47FAAC}|Pizz\u00E9ria\\Pizz\u00E9ria.csproj|solutionrelative:pizz\u00E9ria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B244F7-2FA3-4FD8-92A1-04177F47FAAC}|Pizz\u00E9ria\\Pizz\u00E9ria.csproj|c:\\users\\dell 5540\\source\\repos\\pizz\u00E9ria\\pizz\u00E9ria\\pizzaehoddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B244F7-2FA3-4FD8-92A1-04177F47FAAC}|Pizz\u00E9ria\\Pizz\u00E9ria.csproj|solutionrelative:pizz\u00E9ria\\pizzaehoddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B244F7-2FA3-4FD8-92A1-04177F47FAAC}|Pizz\u00E9ria\\Pizz\u00E9ria.csproj|c:\\users\\dell 5540\\source\\repos\\pizz\u00E9ria\\pizz\u00E9ria\\pizz\u00E9ria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87B244F7-2FA3-4FD8-92A1-04177F47FAAC}|Pizz\u00E9ria\\Pizz\u00E9ria.csproj|solutionrelative:pizz\u00E9ria\\pizz\u00E9ria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell 5540\\source\\repos\\Pizz\u00E9ria\\Pizz\u00E9ria\\appsettings.json",
+              "RelativeDocumentMoniker": "Pizz\u00E9ria\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell 5540\\source\\repos\\Pizz\u00E9ria\\Pizz\u00E9ria\\appsettings.json",
+              "RelativeToolTip": "Pizz\u00E9ria\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T22:29:32.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzaEhodDB.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5540\\source\\repos\\Pizz\u00E9ria\\Pizz\u00E9ria\\PizzaEhodDB.cs",
+              "RelativeDocumentMoniker": "Pizz\u00E9ria\\PizzaEhodDB.cs",
+              "ToolTip": "C:\\Users\\Dell 5540\\source\\repos\\Pizz\u00E9ria\\Pizz\u00E9ria\\PizzaEhodDB.cs",
+              "RelativeToolTip": "Pizz\u00E9ria\\PizzaEhodDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:08:01.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaEhod.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5540\\source\\repos\\Pizz\u00E9ria\\Pizz\u00E9ria\\Models\\PizzaEhod.cs",
+              "RelativeDocumentMoniker": "Pizz\u00E9ria\\Models\\PizzaEhod.cs",
+              "ToolTip": "C:\\Users\\Dell 5540\\source\\repos\\Pizz\u00E9ria\\Pizz\u00E9ria\\Models\\PizzaEhod.cs",
+              "RelativeToolTip": "Pizz\u00E9ria\\Models\\PizzaEhod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:55:26.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pizz\u00E9ria",
+              "DocumentMoniker": "C:\\Users\\Dell 5540\\source\\repos\\Pizz\u00E9ria\\Pizz\u00E9ria\\Pizz\u00E9ria.csproj",
+              "RelativeDocumentMoniker": "Pizz\u00E9ria\\Pizz\u00E9ria.csproj",
+              "ToolTip": "C:\\Users\\Dell 5540\\source\\repos\\Pizz\u00E9ria\\Pizz\u00E9ria\\Pizz\u00E9ria.csproj",
+              "RelativeToolTip": "Pizz\u00E9ria\\Pizz\u00E9ria.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T21:54:40.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell 5540\\source\\repos\\Pizz\u00E9ria\\Pizz\u00E9ria\\Program.cs",
+              "RelativeDocumentMoniker": "Pizz\u00E9ria\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell 5540\\source\\repos\\Pizz\u00E9ria\\Pizz\u00E9ria\\Program.cs",
+              "RelativeToolTip": "Pizz\u00E9ria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:54:25.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

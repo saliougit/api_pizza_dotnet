@@ -1,1 +1,50 @@
-".vs/" 
+## Fichiers générés par Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+*.vsp
+*.vssscc
+*.sln.iml
+
+## Fichiers de compilation
+bin/
+obj/
+Debug/
+Release/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## Fichiers de base de données
+*.db
+*.mdf
+*.ldf
+*.sdf
+
+## Fichiers de déploiement
+*.pubxml
+*.publishsettings
+
+## Fichiers temporaires
+_ReSharper*/
+*.cache
+*.log
+*.njsproj
+*.sw?
+
+## Fichiers NuGet
+packages/
+[Nn]u[Gg]et.[Ee]x[Ee]
+*.nupkg
+
+## Fichiers Rider
+.idea/
+
+## Fichiers VS Code
+.vscode/
+
+## Fichiers macOS
+.DS_Store
+
+## Fichiers spécifiques à votre projet
+Pizzas.db  # Exclure la base de données SQLite (optionnel si vous voulez la versionner)
